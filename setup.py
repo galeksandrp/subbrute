@@ -12,7 +12,7 @@ long_description = open(
 
 
 setup(
-    name='SubBrute',
+    name='subbrute',
     version='2.0',
     license='LICENSE',
     url='https://github.com/TheRook/subbrute',
